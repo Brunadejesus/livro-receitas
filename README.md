@@ -2,6 +2,6 @@
 LIVRO DE RECEITAS
 
 Olá! bem vindo ao meu livro de recitas.
-
-##  *Strogonoff de frango
-## *Lasanha de Frango
+#(MENU DO DIA)
+##Strogonoff de frango
+###Lasanha de Frango
