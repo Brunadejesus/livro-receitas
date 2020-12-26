@@ -2,5 +2,5 @@
 LIVRO DE RECEITAS
 
 Olá! bem vindo ao meu livro de recitas.
-##Strogonoff de frango
-###Lasanha de Frango
+## Strogonoff de frango
+### Lasanha de Frango
